@@ -22,4 +22,4 @@ Data Format: Optimized for web, desktop, and mobile views
 Publicly available data from the Ghana Stock Exchange: https://gse.com.gh/trading-and-data/#dailyshares
 
 ## Dashboard Screenshot
-![Alt Text](https://github.com/dataprof04/GSE-Dashboard/blob/main/Image/GSE%20Dashboard%20Snapshot.png)
+![Alt Text](https://github.com/dsadjei/GSE-Dashboard/blob/main/Image/gse.png)
